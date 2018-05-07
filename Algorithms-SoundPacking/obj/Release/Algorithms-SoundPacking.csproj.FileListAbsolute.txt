@@ -1,0 +1,54 @@
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe.config
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.pdb
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\mscorlib.dll
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normidna.nlp
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfc.nlp
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfd.nlp
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkc.nlp
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkd.nlp
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Form1.resources
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Properties.Resources.resources
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.exe
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.pdb
+C:\Users\moham\Desktop\newone\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csprojResolveAssemblyReference.cache
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe.config
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.exe
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.pdb
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.pdb
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csprojResolveAssemblyReference.cache
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Form1.resources
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Properties.Resources.resources
+H:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csproj.GenerateResource.Cache
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe.config
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.exe
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.pdb
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.pdb
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\mscorlib.dll
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normidna.nlp
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfc.nlp
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfd.nlp
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkc.nlp
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkd.nlp
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csprojResolveAssemblyReference.cache
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Form1.resources
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Properties.Resources.resources
+F:\abo el roshd 3\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe.config
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.exe
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.pdb
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.exe
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\Algorithms-SoundPacking.pdb
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\mscorlib.dll
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normidna.nlp
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfc.nlp
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfd.nlp
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkc.nlp
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\bin\Release\normnfkd.nlp
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csprojResolveAssemblyReference.cache
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Form1.resources
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms_SoundPacking.Properties.Resources.resources
+C:\Users\moham\Desktop\new22\Sound-Pack-GUI\Algorithms-SoundPacking\obj\Release\Algorithms-SoundPacking.csproj.GenerateResource.Cache
